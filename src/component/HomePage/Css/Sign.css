@@ -1,0 +1,94 @@
+
+  
+  h1 {
+    margin-top: 20px;
+    text-align: center;
+  }
+  p {
+    margin-top: 10px;
+    text-align: center;
+  }
+  form {
+    font-family:  'Inter';
+    font-weight: 600;
+    width: 60vw;
+      max-width: 383px;
+      min-width: 383px;
+      margin: 0 auto;
+    padding-bottom: 2em;
+  }
+  
+  fieldset {
+    border: none;
+  }
+  
+
+  
+  label {
+    display: block;
+      margin: 0.5rem 0;
+  }
+  
+  input
+
+   {
+
+      width: 100%;
+      height: 35px;
+
+  }
+  
+  input {
+    fill: transparent;
+    border: 1px solid rgba(208,213,221,1);
+    font-size: 15px;
+    padding-left: 12px;
+    color: rgba(102,112,133,1);
+    border-radius: 5px;
+  }
+  input:active,input:focus{
+    outline: 0;
+  }
+  .inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+  }
+
+  
+  input[type="submit"] {
+    display: block;
+    background-color: rgba(0,111,255,1);
+    margin: 1em auto;
+    color: rgba(255,255,255,1);
+    font-size: 15px;
+    height: 35px;
+    border-radius: 5px;
+  }
+  .signinIN{
+    min-width: 383px;
+
+  }
+#googlebtn{
+    width: 100%;
+    font-size: 15px;
+    font-weight: normal;
+    height: 35px;
+    background-color: transparent;
+    border: 1px solid rgba(208,213,221,1);
+}
+.img_gg{
+    width: 20px;
+}
+.input1{
+    display: inline;
+}
+#rememberme{
+    display: inline !important;
+    height: 12px;
+    width: 12px;
+}
+#remembermelb{
+    display: inline !important;
+
+}

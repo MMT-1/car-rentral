@@ -1,0 +1,47 @@
+.Section4{
+    margin-bottom: 200px;
+}
+.Section4_back{
+    background-image: url(../../images/v1.jpg) ;
+    opacity: .95;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    height: 250px;
+    width: 90%;
+    border-radius: 30px;
+    margin: auto;
+    box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.2);
+    padding-top: 55px;
+}
+.sectio4_text2{
+    font-size: 12px;
+    line-height: 16px;
+}
+.sectio4_btn{
+    background-color: rgb(0, 111, 255);
+    border: 0;
+    height: 37px;
+    padding: 8px;
+    color: white;
+}
+.inpSection4{
+    width: 254px;
+    height: 37px;
+    border: 0;
+    outline: 0;
+}
+.sectio4_btn i{
+    padding: 5px;
+    margin: 0;
+}
+#Enter_your_email::placeholder {
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+    padding-left: 10px;
+}

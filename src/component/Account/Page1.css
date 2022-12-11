@@ -1,0 +1,296 @@
+.imgannonce{
+    height: 442px;
+}
+.nav-link .Home{
+        white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(112,112,112,1);
+}
+.iNav{
+    color: rgba(112,112,112,1);
+
+}
+.fa-camera {
+    color: black;
+}
+.btnAddAn{
+    border: 1px solid rgba(112,112,112,1);
+}
+.btnAddAn span{
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(112,112,112,1);
+}
+.itNav{
+    border-bottom: 1px solid black;
+}
+.itNav:focus{
+    border-bottom: 1px solid rgba(0,111,255,1);
+}
+
+.btn_profile{
+    border: none;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    width: 179px;
+
+    color: rgba(0,0,0,1);
+}
+.btn_profile:focus{
+    background-color: rgba(0,111,255,0.439);
+
+}
+i{
+    padding-left: 10px;
+}
+.i1{
+    padding-left: 80px;
+}
+.i2{
+    padding-left: 57px;
+}
+.imgProfile{
+    width: 80px;
+    height: 80px;
+}
+.btnUpload{
+    white-space: nowrap;
+    border-radius: 5px;
+    text-align: left;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    border-color: rgba(112,112,112,1);
+    font-size: 15px;
+    background-color: transparent;
+    color: rgba(0,0,0,1);
+}
+
+
+.formAddAn {
+    font-family:  'Inter';
+    font-weight: 600;
+      margin: 0 auto;
+    padding-bottom: 2em;
+  }
+  
+ .formAddAn fieldset {
+    border: none;
+  }
+  
+
+  
+ .formAddAn label {
+    display: block;
+    text-align: left;
+      margin: 0.5rem 0;
+      white-space: nowrap;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-size: 14px;
+    color: rgba(67,66,93,1);
+  }
+  
+  .formAddAn input
+
+   {
+    display: block;
+    margin: 10px 0 0 0;
+      width: 100%;
+      height: 35px;
+
+  }
+  .inputBack{
+
+    background-color: rgba(153,153,153,1);
+}
+
+  
+ .formAddAn input {
+    fill: transparent;
+    border: 1px solid rgba(208,213,221,1);
+    font-size: 15px;
+    max-width: 383px;
+      min-width: 383px;
+    padding-left: 17px;
+    border: 1px solid rgba(112,112,112,1);
+  }
+
+ .formAddAn input::placeholder{
+    color: rgb(44, 46, 51);
+  }
+ .formAddAn input:active,.formAddAn input:focus{
+    outline: 0;
+  }
+
+  
+  .formAddAn input[type="submit"] {
+    display: block;
+    background-color: rgba(0,111,255,1);
+    color: rgba(255,255,255,1);
+    font-size: 15px;
+    height: 35px;
+    margin-top: 100px;
+    margin-left: auto;
+    padding: 0;
+    border-radius: 0;
+    max-width: 100px;
+    border: 0;
+    min-width: 100px;
+  }
+  .smallTxt{
+    font-size: 12px;
+    font-family:  'Inter';
+    font-weight: bold;
+  }
+  .active .btn_profile{
+    background-color: rgba(0,111,255,0.439);
+
+}
+.imgannonce{
+  height: 442px;
+}
+.navBArNav .nav-link{
+      white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(112,112,112,1);
+}
+.navBArNav i{
+  color: rgba(112,112,112,1);
+
+}
+.fa-camera {
+  color: black;
+}
+.btnNav{
+  border: 1px solid rgba(112,112,112,1);
+}
+.btnNav span{
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  color: rgba(112,112,112,1);
+}
+.navBArNav .nav-item{
+  border-bottom: 1px solid black;
+}
+.navBArNav .nav-item:focus{
+  border-bottom: 1px solid rgba(0,111,255,1);
+}
+
+.profile img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.profile button {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+/* User */
+
+.profile {
+  margin-left: 30px;
+  cursor: pointer;
+}
+.profile .image {
+  display: flex;
+  padding-bottom: 20px;
+}
+.openProfile .image {
+  display: flex;
+  padding-bottom: 20px;
+}
+.profile .image img {
+  margin-right: 20px;
+}
+.profile button {
+  font-size: 17px;
+  font-weight: 500;
+}
+.profile img ,.openProfile img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+.openProfile {
+  color: #000;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
+  position: absolute;
+  top: 80px;
+  right: 10px;
+  width: 200px;
+  background: #fff;
+}
+.openProfile label {
+  color: #999;
+  font-size: 13px;
+}
+.openProfile .box {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 5px;
+  padding: 5px;
+  transition: 0.5s;
+}
+
+.openProfile .icon {
+  font-size: 20px;
+  margin-right: 20px;
+}
+.openProfile h4 {
+  font-size: 15px;
+  font-weight: 500;
+}
+.openProfile button:hover {
+  background: rgba(147, 75, 255, 0.075);
+}
+.flexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.openProfile button ,.profile button, .openProfile input {
+  border: none;
+  background: none;
+  outline: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+.boxItems {
+  border: 1px solid #e6e6e6;
+  padding: 5px 20px;
+  background: #fff;
+}
+
+
+
+.und {
+  margin-top: 10px;
+  width: 100%;
+  background-color: #000;
+  height: 1px;
+}

@@ -1,0 +1,71 @@
+.loginItem{
+    background-color: rgb(0, 111, 255);
+    padding: 8px 20px;
+}
+.bgdark{
+    background-color: black;
+}
+.loginItem a{
+    color: white !important;
+}
+.nav-link{
+    font-size: 13.5px !important;
+    color: black !important;
+    letter-spacing: 1.5px;
+}
+nav{
+    font-family: 'Gilroy';
+    font-size: 15px;
+}
+.navbar-brand img{
+    height: 35px;
+}
+
+#Icon_awesome-instagram {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-instagram {
+    width: 18px;
+    height: 17.637px;
+   
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitter {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-twitter {
+    
+    width: 19.56px;
+    height: 16.501px;
+    
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook {
+
+    width: 18.75px;
+    height: 18.637px;
+   
+    transform: matrix(1,0,0,1,0,0);
+}
+#Aide_et_renseignements {
+  
+    width: 182px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#headset_copy {
+    width: 22px;
+    height: 22px;
+
+}
+.shadow{
+    box-shadow: rgba(43, 37, 37, 0.16) 0px 5px 6px ;
+}
